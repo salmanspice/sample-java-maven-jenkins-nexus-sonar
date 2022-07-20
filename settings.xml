@@ -5,9 +5,9 @@
 
   <servers>
     <server>
-      <id>repo<id>
+      <id>maven-sonar-test<id>
       <username>admin</username>
-      <password>admin123</password>
+      <password>spice@123</password>
     </server>
 
     <server>
